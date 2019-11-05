@@ -5,6 +5,6 @@
    :maxdepth: 3
 
    README
-   getting_started
-   CyVerse
-   Containers
+   getting_started/
+   CyVerse/
+   Containers/
