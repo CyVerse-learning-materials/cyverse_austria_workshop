@@ -6,3 +6,5 @@
 
    README
    getting_started
+   CyVerse
+   Containers
