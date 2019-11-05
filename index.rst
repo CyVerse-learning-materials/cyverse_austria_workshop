@@ -1,7 +1,7 @@
 |CyVerse logo|
 
-CyVerse Tools and Services Workshop
-------------------------------------
+CyVerse Austria  Workshop
+-------------------------
 
 Tools and services workshops cover the major platforms of the CyVerse
 cyberinfrastructure (http://www.cyverse.org/) including:
@@ -71,7 +71,6 @@ Pre-Workshop Setup
         configuration and installation at the workshop.
       - - `Download Cyberduck <https://cyberduck.io/>`_
         - `Download CyVerse Cyberduck connection profile <https://wiki.cyverse.org/wiki/download/attachments/18188197/iPlant%20Data%20Store.cyberduckprofile?version=1&modificationDate=1436557522000&api=v2>`_
-
 
 **Optional Download Extras**
 
