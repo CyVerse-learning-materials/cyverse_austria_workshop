@@ -19,8 +19,9 @@
 
 **C**
 
--**CLI:** command line interface
+- **CLI:** command line interface
 - **container:** A virtualization of an operating system run within an isolated user space. A running instance of and image.
+- **CyberDuck** a stand alone program for upload|download of data from remote services `cyberduck.io <cyberduck.io>`_
 - **CyVerse tool:** Software program that is integrated into the back end of the DE for use in DE apps
 - **CyVerse app:** graphic interface of a tool made available for use in the DE
 
@@ -32,7 +33,7 @@
 
 **F**
 
--**function:**
+- **function:**
 
 **G**
 
@@ -89,7 +90,7 @@
 
 **W**
 
--**workspace:** (vs. repo)
+- **workspace:** (vs. repo)
 
 **X**
 
