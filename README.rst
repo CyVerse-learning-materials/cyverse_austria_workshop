@@ -183,10 +183,6 @@ Please cite CyVerse appropriately when you make use of our resources,
 `CyVerse citation
 policy <http://www.cyverse.org/acknowledge-cite-cyverse>`__
 
-.. |CyVerse logo| image:: ./img/cyverse_rgb.png
-	:width: 500
-	:height: 100
-
 .. |platform_stack| image:: ./img/cyverse_platform_stack.png
   :width: 750
   :height: 700
