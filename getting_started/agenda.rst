@@ -7,6 +7,80 @@
 
 **Agenda**
 ==========
+
+----
+
+Agenda
+--------
+
+.. list-table::
+    :header-rows: 1
+
+    * - Time
+      - Topic/Activity
+      - Slides
+      - Guides
+      - Notes/Links
+    * - 9:30-10:00
+      - Introduction to CyVerse
+      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/tsw_intro.pptx>`__
+      -
+      -
+    * - 10:00-10:30
+      - Data Management Basics and Data upload with Cyberduck
+      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/data_store.pptx>`__
+      - `guide <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/>`__
+      - - `Download Cyberduck`_
+        - `Download CyVerse Cyberduck connection profile`_
+    * - 10:30-10:45
+      - Break
+      -
+      -
+      -
+    * - 10:45-11:00
+      - Data Sharing within CyVerse
+      -
+      - `guide <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step4.html>`__
+      -
+    * - 11:00-12:00
+      - CyVerse Discovery Environment walkthrough and exercises
+      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/discovery_enviornment.pptx>`__
+      - `guide <http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/>`__
+      - - `FastQC Exercise <https://cyverse-fastqc-quickstart.readthedocs-hosted.com/en/latest/>`_
+        - `Trimmomatic Exercise <https://cyverse-trimmomatic-quickstart.readthedocs-hosted.com/en/latest/>`_
+    * - 12:00-01:00
+      - Lunch
+      -
+      -
+      -
+    * - 01:00-01:45
+      - Cloud Computing with CyVerse Atmosphere
+      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/atmosphere.pptx>`__
+      - `guide <https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/>`__
+      -
+    * - 01:45-02:15
+      - Introduction to New RNA-Seq Methods
+      - `Kallisto Tutorial <https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/>`_
+      -
+      - - `RNA-Seq Best Practicies <https://wiki.cyverse.org/wiki/download/attachments/36470870/Best_Practices_RNA_Seq_ConesaEtal_2016.pdf?version=1&modificationDate=1499770226000&api=v2>`_
+        - `Kallisto Paper <https://www.nature.com/nbt/journal/v34/n5/full/nbt.3519.html>`_
+    * - 02:15-02:30
+      - Break
+      -
+      -
+      -
+    * - 03:00-04:45
+      - Guided Sleuth Tutorial / Guided Tuxedo 2.0 Tutorial
+      -
+      -
+      - - `Sleuth Tutorial <https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/step4.html>`_
+    * - 04:45-05:00
+      - Wrap up/conclusion
+      -
+      -
+      - `Post Survey <https://www.surveymonkey.com/r/ToolsServices_post>`_
+
+
 This workshop runs under a `Code of Conduct <code_of_conduct.html>`_. Please respect it and be excellent to each other!
 
 Twitter hash tag: #cyverse_foss
@@ -24,126 +98,6 @@ Last year’s syllabus as a chart (for reference): https://docs.google.com/sprea
 *Expected Outcomes*
 ------------------
 By working through an example project  relevant to their interests, participants will practice open science skills using CyVerse, GitHub, R or Python, and other resources. At the end of the week, students will present a plan for how to integrate open science into their labs.
-
-
-**Day 1**
----------
-
-**AM**
-
-* Course introduction and objectives
-	- Clarify objectives and how course topics address participants’ goals (general summary from pre-camp surveys)
-	- Participant introductions
-	- Discussion: What is open science?
-	- Introduce example lab/research project
-	- Collaboration culture and roles (Michael Mandel, Eller Business College)
-
-
-*Lunch break: optional command line refresher*
-
-
-**PM** 
-
-* Introduction to CyVerse
-	- Platform overview
-	- Discovery Environment (DE)
-		+ Data management
-			* Data organization
-			* Data sharing
-			* Metadata
-		+ Data analysis
-			* running apps in batch mode (DE apps)
-			* VICE: Visual Interactive Computing Environment 
-		+ Creating new tools and apps - overview
-		+ Creating workflows
-		+ Data Store Access
-			* iCommands, WebDav, CyberDuck
-			
-			
-**Day 2**
----------
-
-**AM**
-
-*Introduction to reproducible science
-	- Tools for collaboration
-		+ Slack, GitHub, ReadTheDocs, Gitter, Stack Overflow, etc.
-	- Hands on GitHub
-		+ In a web-browser, command line
-		
-		
-**PM**
-
-* Introduction to cloud computing
-	- Atmosphere
-		+ Launching an instance
-		+ Mounting a volume
-		+ Creating images
-	- OpenScienceGrid, XSEDE HPC
-	- Jetstream - Atmosphere for XSEDE (scale up your analyses)
-	- Commercial cloud providers
-	
-	
-**Day 3**
---------
-
-**AM**
-
-* Data Management 
-	- FAIR data principle (Findable, Accessible, Interoperable, and Reusable)
-		+ Data organization
-		+ Data and metadata standards
-		+ Using metadata
-		+ Data licensing 
-		+ Legal and ethical concerns
-* Data Management tools:
-	- Open Science Framework (OSF)
-	- Protocols.io
-	- CyVerse Data Commons
-* Writing Actionable Data Management Plans
-* Budgeting for open, reproducible science 
-
-**PM**
-
-* Computational Notebooks
-	- Jupyter Notebooks with R or Python (in VICE)
-	- Connecting Notebooks and VICE to GitHub
-	
-
-*Evening: Happy hour at 1702! No trip to UA’s north campus is complete without a visit to 1702 for pizza and beer. It’s a local institution.*
-
-
-**Day 4**
----------
-
-**AM**
-
-* Introduction to Containers
-	- Intro to BioContainers, Docker, and Singularity
-	- Install Docker on Atmosphere and run a container
-	
-**PM**
-
-* Bio5 Tour
-* Work on projects, practice specific skills
-
-*Group Dinner in Downtown Tucson - take the streetcar!*
-
-
-**Day 5**
----------
-
-**AM**
-
-* Introduction to workflow managers
-* Collaboration culture, recap
-
-**PM**
-
-* Project presentations
-* Planning for continued involvement
-* Course assessment
-
 
    
 ----

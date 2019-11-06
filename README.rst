@@ -97,88 +97,10 @@ provide some options for functionalities we will cover.
       - Download and installation instructions available at `CyVerse Learning Center <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step2.html>`__
 
 
-
-
-
-----
-
-Agenda
---------
-
- - Prior to the workshop, please take the `Pre-workshop Survey <https://www.surveymonkey.com/r/ToolsServices_pre>`_.
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Time
-      - Topic/Activity
-      - Slides
-      - Guides
-      - Notes/Links
-    * - 9:30-10:00
-      - Introduction to CyVerse
-      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/tsw_intro.pptx>`__
-      -
-      -
-    * - 10:00-10:30
-      - Data Management Basics and Data upload with Cyberduck
-      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/data_store.pptx>`__
-      - `guide <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/>`__
-      - - `Download Cyberduck`_
-        - `Download CyVerse Cyberduck connection profile`_
-    * - 10:30-10:45
-      - Break
-      -
-      -
-      -
-    * - 10:45-11:00
-      - Data Sharing within CyVerse
-      -
-      - `guide <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step4.html>`__
-      -
-    * - 11:00-12:00
-      - CyVerse Discovery Environment walkthrough and exercises
-      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/discovery_enviornment.pptx>`__
-      - `guide <http://learning.cyverse.org/projects/cyverse-discovery-environment-guide/>`__
-      - - `FastQC Exercise <https://cyverse-fastqc-quickstart.readthedocs-hosted.com/en/latest/>`_
-        - `Trimmomatic Exercise <https://cyverse-trimmomatic-quickstart.readthedocs-hosted.com/en/latest/>`_
-    * - 12:00-01:00
-      - Lunch
-      -
-      -
-      -
-    * - 01:00-01:45
-      - Cloud Computing with CyVerse Atmosphere
-      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/atmosphere.pptx>`__
-      - `guide <https://cyverse-atmosphere-guide.readthedocs-hosted.com/en/latest/>`__
-      -
-    * - 01:45-02:15
-      - Introduction to New RNA-Seq Methods
-      - `Kallisto Tutorial <https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/>`_
-      -
-      - - `RNA-Seq Best Practicies <https://wiki.cyverse.org/wiki/download/attachments/36470870/Best_Practices_RNA_Seq_ConesaEtal_2016.pdf?version=1&modificationDate=1499770226000&api=v2>`_
-        - `Kallisto Paper <https://www.nature.com/nbt/journal/v34/n5/full/nbt.3519.html>`_
-    * - 02:15-02:30
-      - Break
-      -
-      -
-      -
-    * - 03:00-04:45
-      - Guided Sleuth Tutorial / Guided Tuxedo 2.0 Tutorial
-      -
-      -
-      - - `Sleuth Tutorial <https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/step4.html>`_
-    * - 04:45-05:00
-      - Wrap up/conclusion
-      -
-      -
-      - `Post Survey <https://www.surveymonkey.com/r/ToolsServices_post>`_
-
 -----
 
 Host Prep Instructions
-------------------------
+----------------------
 
 These instructions are reminders for those hosting a CyVerse Workshop with us or
 on their own.
