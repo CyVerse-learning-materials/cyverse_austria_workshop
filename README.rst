@@ -129,9 +129,9 @@ traininer) and so restruction-free/guest public Wi-Fi access should be available
 
      - **iRODS/Data Store:** 1247 and 20000-20399
      - **SSH:** 22
-     - **VNC:** 5900-5910
+     - **VNC:** 5900-5910, 6900-6910
      - **RStudio:** 8787
-     - **Jupyter:** 8000
+     - **Jupyter:** 8888±10
 
 Your CyVerse instructor will test connection prior to the workshop, or work with
 you to test connection to services.
