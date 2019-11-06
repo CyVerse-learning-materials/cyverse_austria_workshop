@@ -5,12 +5,26 @@
 |Home_Icon2|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**Agenda**
-==========
+**Code of Conduct**
+===================
+
+This workshop is run under a `Code of Conduct <code_of_conduct.html>`_. Please respect it and be excellent to each other!
+
+**Social Media**
+
+Twitter @CyVerseOrg hash tag: #cyverse_austria
+
+
+**Schedule**
+============
+
+Agenda subject to change.
+
+Instructors will review the agenda at the end of each day, and adjust based on participant input.
 
 ----
 
-Agenda
+Monday 2019-11-18
 --------
 
 .. list-table::
@@ -23,7 +37,7 @@ Agenda
       - Notes/Links
     * - 9:30-10:00
       - Introduction to CyVerse
-      - `slides <https://github.com/CyVerse-learning-materials/cyverse_tools_and_services_workshop/raw/master/slides/tsw_intro.pptx>`__
+      - `slides <>`__
       -
       -
     * - 10:00-10:30
@@ -80,20 +94,78 @@ Agenda
       -
       - `Post Survey <https://www.surveymonkey.com/r/ToolsServices_post>`_
 
+Tuesday 2019-11-19
+--------
 
-This workshop runs under a `Code of Conduct <code_of_conduct.html>`_. Please respect it and be excellent to each other!
+.. list-table::
+    :header-rows: 1
 
-Twitter hash tag: #cyverse_foss
+    * - Time
+      - Topic/Activity
+      - Slides
+      - Guides
+      - Notes/Links
+    * - 9:00-10:00
+      -
+      -
+      -
+      _
+      
+Wednesday 2019-11-20
+--------
 
-Agenda subject to change.
+.. list-table::
+    :header-rows: 1
 
-Instructors will review the agenda at the end of each day, and adjust based on participant input.
+    * - Time
+      - Topic/Activity
+      - Slides
+      - Guides
+      - Notes/Links
+    * - 9:00-10:00
+      -
+      -
+      -
+      _
+
+Thursday 2019-11-21
+--------
+
+.. list-table::
+    :header-rows: 1
+
+    * - Time
+      - Topic/Activity
+      - Slides
+      - Guides
+      - Notes/Links
+    * - 9:00-10:00
+      -
+      -
+      -
+      _
+      
+Friday 2019-11-22
+--------
+
+.. list-table::
+    :header-rows: 1
+
+    * - Time
+      - Topic/Activity
+      - Slides
+      - Guides
+      - Notes/Links
+    * - 9:00-10:00
+      -
+      -
+      -
+      _ 
+    
 
 
 **Syllabus (draft, subject to change)**
 =======================================
-
-Last year’s syllabus as a chart (for reference): https://docs.google.com/spreadsheets/d/1n5zCJlT9g_vyWx6z-5vmT300ZH-vC6AP4TYKFeJIMZo/edit#gid=0
 
 *Expected Outcomes*
 ------------------
