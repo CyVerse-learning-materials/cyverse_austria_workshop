@@ -8,9 +8,9 @@
 **Code of Conduct**
 ============================
 
-All attendees, speakers, sponsors and volunteers at FOSS Camp are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe, inclusive, and collaborative environment for everybody.
+All attendees, speakers, sponsors and volunteers at the workshop are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe, inclusive, and collaborative environment for everybody.
 
-Harassment by any individual will not be tolerated and may result in the individual being removed from the Camp.
+Harassment by any individual will not be tolerated and may result in the individual being removed from the workshop.
 
 Harassment includes: offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -37,4 +37,4 @@ See http://www.ashedryden.com/blog/codes-of-conduct-101-faq for more information
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="https://github.com/CyVerse-learning-materials/foss-2019/tree/master/CyVerse/getting_started/code_of_conduct.rst" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/cyverse_austrai_workshop/tree/master/CyVerse/getting_started/code_of_conduct.rst" target="blank">Github Repo Link</a>
