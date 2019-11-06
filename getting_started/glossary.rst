@@ -27,6 +27,7 @@
 
 **D**
 
+- **Discovery Environment (DE)** The CyVerse data science workbench `de.cyverse.org <de.cyverse.org>`_
 - **Docker:** is an open source software platform to create, deploy and manage virtualized application containers on a common operating system (OS), with an ecosystem of allied tools. A program that runs and handles life-cycle of containers and images
 
 **E**
