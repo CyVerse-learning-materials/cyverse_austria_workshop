@@ -187,4 +187,4 @@ By working through an example project  relevant to their interests, participants
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="https://github.com/CyVerse-learning-materials/foss-2020/tree/master/CyVerse/getting_started/agenda.rst" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/cyverse_austria_workshop/tree/master/CyVerse/getting_started/agenda.rst" target="blank">Github Repo Link</a>
