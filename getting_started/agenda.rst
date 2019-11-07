@@ -185,12 +185,12 @@ By working through an example project  relevant to their interests, participants
 
 .. Comment: Place URLS Below This Line
 
-.. |CyVerse_logo| image:: ./img/cyverse_cmyk.png
+.. |CyVerse_logo| image:: ../img/cyverse_cmyk.png
     :width: 650
     
 .. _CyVerse_logo: https://cyverse.org
 
-.. |Home_Icon| image:: ./img/homeicon.png
+.. |Home_Icon| image:: ../img/homeicon.png
     :width: 25
     :height: 25
 
