@@ -40,12 +40,12 @@ See http://www.ashedryden.com/blog/codes-of-conduct-101-faq for more information
 
    <a href="https://github.com/CyVerse-learning-materials/cyverse_austrai_workshop/tree/master/CyVerse/getting_started/code_of_conduct.rst" target="blank">Github Repo Link</a>
    
-.. |CyVerse_logo| image:: ./img/cyverse_cmyk.png
+.. |CyVerse_logo| image:: ../img/cyverse_cmyk.png
     :width: 650
     
 .. _CyVerse_logo: https://cyverse.org
 
-.. |Home_Icon| image:: ./img/homeicon.png
+.. |Home_Icon| image:: ../img/homeicon.png
     :width: 25
     :height: 25
 
