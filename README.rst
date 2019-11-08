@@ -190,7 +190,7 @@ divide into smaller groups. Everything on the agenda is up for discussion, if
 something you would like to see is missing we can add it!
 
 Monday 2019-11-18
-~~~~~~~~~~~~~~~~~~
+`````````````````
 
 **Learning activities and goals**
 
@@ -255,7 +255,7 @@ Monday 2019-11-18
       -
 
 Tuesday 2019-11-19
-~~~~~~~~~~~~~~~~~~~~~~
+``````````````````
 
 **Learning activities and goals**
 
@@ -319,7 +319,7 @@ Tuesday 2019-11-19
       -
 
 Wednesday 2019-11-20
-~~~~~~~~~~~~~~~~~~~~~~
+````````````````````
 
 **Learning activities and goals**
 
@@ -382,7 +382,7 @@ Wednesday 2019-11-20
       -
 
 Thursday 2019-11-21
-~~~~~~~~~~~~~~~~~~~~~~
+```````````````````
 
 **Learning activities and goals**
 
@@ -420,7 +420,7 @@ Thursday 2019-11-21
       -
 
 Friday 2019-11-22
-~~~~~~~~~~~~~~~~~~~
+`````````````````
 
 **Learning activities and goals**
 
@@ -468,7 +468,7 @@ Friday 2019-11-22
 -----
 
 Resources Bin
-~~~~~~~~~~~~~~~~
+`````````````
 
 These are links to exercises, tutorials, and other learning materials. We may
 or may not cover all of these items in the workshop.
