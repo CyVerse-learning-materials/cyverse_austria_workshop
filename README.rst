@@ -535,4 +535,4 @@ policy <http://www.cyverse.org/acknowledge-cite-cyverse>`__
 
 .. |Code of Conduct| raw:: html 
 
-   <a href="./getting_started/code_of_conduct.rst" target="blank">Code of Conduct</a>
+   <a href="./getting_started/code_of_conduct.html" target="blank">Code of Conduct</a>
