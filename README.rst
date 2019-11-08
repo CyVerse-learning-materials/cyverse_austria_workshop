@@ -465,6 +465,8 @@ Friday 2019-11-22
       -
       -
 
+-----
+
 Resources Bin
 ~~~~~~~~~~~~~~~~
 
@@ -484,12 +486,12 @@ or may not cover all of these items in the workshop.
 
 
 
-----
+-----
 
 Code of Conduct
 ----------------
 
-This workshop is run under a `Code of Conduct <code_of_conduct.html>`_; please
+This workshop is run under a |Code of Conduct| - please
 respect it and your fellow attendees!
 
 -----
@@ -529,3 +531,8 @@ Award Numbers DBI-0735191, DBI-1265383, and DBI-1743442.
 Please cite CyVerse appropriately when you make use of our resources,
 `CyVerse citation
 policy <http://www.cyverse.org/acknowledge-cite-cyverse>`__
+
+
+.. |Code of Conduct| raw:: html 
+
+   <a href="./getting_started/code_of_conduct.rst" target="blank">Code of Conduct</a>
