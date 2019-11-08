@@ -172,6 +172,12 @@ provide some options for functionalities we will cover.
 
 -----
 
+Etherpad
+````````
+
+We will use this collaborative document for shared notes and easy exchange of
+code, feedback, links, etc.: **TBA**
+
 Agenda
 ------
 
@@ -182,13 +188,6 @@ group what the afternoon agenda should focus on. We also anticipate that
 attendees may want to different things and we will have some capacity to
 divide into smaller groups. Everything on the agenda is up for discussion, if
 something you would like to see is missing we can add it!
-
-Etherpad
-``````````
-
-We will use this collaborative document for shared notes and easy exchange of
-code, feedback, links, etc.: **TBA**
-
 
 Monday 2019-11-18
 ~~~~~~~~~~~~~~~~~~
@@ -492,8 +491,6 @@ Code of Conduct
 
 This workshop is run under a `Code of Conduct <code_of_conduct.html>`_; please
 respect it and your fellow attendees!
-
-
 
 -----
 
