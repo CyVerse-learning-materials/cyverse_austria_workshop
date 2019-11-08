@@ -483,7 +483,9 @@ or may not cover all of these items in the workshop.
       - RNA-Seq analysis using Kallisto and Sleuth. (Uses DE and RStudio)
       - - `Kalisto tutorial <https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/>`_
         - `Sleuth tutorial <https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/step4.html>`_
-
+    * - QIIME2 v2019.10 Jupyter Lab
+      - `QIIME2 Jupyter Lab tutorial <https://cyverse-jupyter-qiime2.readthedocs-hosted.com/en/latest/>`_
+      - |QIIME2|_
 
 
 -----
@@ -536,3 +538,6 @@ policy <http://www.cyverse.org/acknowledge-cite-cyverse>`__
 .. |Code of Conduct| raw:: html 
 
    <a href="./getting_started/code_of_conduct.html" target="blank">Code of Conduct</a>
+
+.. |QIIME2| image:: https://de.cyverse.org/Powered-By-CyVerse-blue.svg
+.. _QIIME2: https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=0fe69a8f-216d-4103-abd8-a2080af82876&app-id=58150fe4-01cf-11ea-8c41-008cfa5ae621
