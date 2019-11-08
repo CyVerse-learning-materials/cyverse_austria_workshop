@@ -1,6 +1,5 @@
 .. include:: ../cyverse_rst_defined_substitutions.txt
 
-
 |CyVerse_logo|_
 
 |Home_Icon|_
@@ -40,3 +39,15 @@ See http://www.ashedryden.com/blog/codes-of-conduct-101-faq for more information
 .. |Github Repo Link|  raw:: html
 
    <a href="https://github.com/CyVerse-learning-materials/cyverse_austrai_workshop/tree/master/CyVerse/getting_started/code_of_conduct.rst" target="blank">Github Repo Link</a>
+   
+.. |CyVerse_logo| image:: ./img/cyverse_cmyk.png
+    :width: 650
+    
+.. _CyVerse_logo: https://cyverse.org
+
+.. |Home_Icon| image:: ./img/homeicon.png
+    :width: 25
+    :height: 25
+
+.. _Home_Icon: http://learning.cyverse.org/
+   
