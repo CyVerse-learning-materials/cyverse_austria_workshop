@@ -172,10 +172,10 @@ provide some options for functionalities we will cover.
 
 -----
 
-Etherpad
+Slack
 ````````
 
-We will use this collaborative document for shared notes and easy exchange of
+We will Slack for shared notes and easy exchange of
 code, feedback, links, etc.: **TBA**
 
 Agenda
@@ -210,7 +210,7 @@ Monday 2019-11-18
       - Guides
       - Notes/Links
     * - 09:00-09:30
-      - Introduction to CyVerse
+      - Computational Thinking with CyVerse
       -
       -
       -
@@ -223,7 +223,7 @@ Monday 2019-11-18
       - Cyberinfrastructure platform overview
       -
       -
-      -
+      - `Introduction to CyVerse <https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/intro_to_cyverse.html>`_
     * - 10:30-11:00
       - **Break**
       -
@@ -232,13 +232,13 @@ Monday 2019-11-18
     * - 11:00-11:30
       - Data Store Basics - Upload/Import
       -
-      -
-      -
+      - |Data Store Guide|
+      - `Data Management Overview <https://learning.cyverse.org/projects/foss-2020/en/latest/Data_management/overview.html>`_
     * - 11:30-12:00
       - Data Store Basics - Metadata templates
       -
       -
-      -
+      - `Associating Metadata (from Data Store Guide) <https://learning.cyverse.org/projects/data_store_guide/en/latest/step3.html>`_
     * - 12:30-01:30
       - **Lunch**
       -
@@ -282,7 +282,7 @@ Tuesday 2019-11-19
       - Docker Basics
       -
       -
-      -
+      - `Introduction to Docker <https://learning.cyverse.org/projects/foss-2020/en/latest/Containers/dockerintro.html>`_
     * - 10:00-10:30
       - Docker basics (cont'd)
       -
@@ -302,7 +302,8 @@ Tuesday 2019-11-19
       - Introduction to  VICE
       -
       -
-      -
+      - - `Introduction to VICE <https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/vice.html>`_
+        - `VICE documentation <https://learning.cyverse.org/projects/vice/en/latest/>`_
     * - 12:30-01:30
       - **Lunch**
       -
@@ -316,7 +317,10 @@ Tuesday 2019-11-19
         - More on building Juypyter Notebooks
       -
       -
-      -
+      - - `CyVerse Documentation Quickstart <https://learning.cyverse.org/projects/Documentation-Quickstart/en/latest/index.html#>`_
+        - `CyVerse Documentation Github <https://github.com/CyVerse-learning-materials>`_
+        - `ReadTheDocs Documentation <https://docs.readthedocs.io/en/stable/>`_
+        - `Jupyter Notebook Tutorial <https://realpython.com/jupyter-notebook-introduction/>`_
 
 Wednesday 2019-11-20
 ````````````````````
@@ -341,7 +345,7 @@ Wednesday 2019-11-20
       - Tool installation in the Discovery Environment
       -
       -
-      -
+      - `DE Tool Integration <https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/tool_integration_app_building_DE.html>`_
     * - 09:30-10:00
       - Tool installation in the Discovery Environment
       -
@@ -379,7 +383,7 @@ Wednesday 2019-11-20
          - Planning for day IV, V projects
       -
       -
-      -
+      - - `Version Control (FOSS) <https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/version_control.html>`_
 
 Thursday 2019-11-21
 ```````````````````
@@ -402,7 +406,7 @@ Thursday 2019-11-21
       - Introduction to QIIME
       -
       -
-      -
+      - `QIIME2 Website <https://qiime2.org/>`_
     * - 09:30-12:30
       - Individual project work
       -
@@ -441,12 +445,12 @@ Friday 2019-11-22
       - Improving your teaching/training skills with Carpentries
       -
       -
-      -
+      - - `Carpentries Homepage <https://carpentries.org/>`_
     * - 09:30-10:00
       - Building a local community of practice
       -
       -
-      -
+      - - `LifeSciTrainers Homepage <https://lifescitrainers.org/>`_
     * - 10:00-12:30
       - **Individual Project Work** (Break included)
       -
@@ -486,6 +490,9 @@ or may not cover all of these items in the workshop.
     * - QIIME2 v2019.10 Jupyter Lab
       - `QIIME2 Jupyter Lab tutorial <https://cyverse-jupyter-qiime2.readthedocs-hosted.com/en/latest/>`_
       - |QIIME2|_
+    * - CyVerse FAQ
+      - General CyVerse FAQs
+      - `CyVerse FAQ <https://cyverse-learning-center-faq.readthedocs-hosted.com/en/latest/>`_
 
 
 -----
@@ -535,7 +542,7 @@ Please cite CyVerse appropriately when you make use of our resources,
 policy <http://www.cyverse.org/acknowledge-cite-cyverse>`__
 
 
-.. |Code of Conduct| raw:: html 
+.. |Code of Conduct| raw:: html
 
    <a href="./getting_started/code_of_conduct.html" target="blank">Code of Conduct</a>
 
