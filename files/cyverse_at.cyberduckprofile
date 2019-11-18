@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Protocol</key>
+        <string>irods</string>
+        <key>Vendor</key>
+        <string>cyverse</string>
+        <key>Description</key>
+        <string>CyVerse Austria Data Store</string>
+        <key>Hostname Configurable</key>
+        <false/>
+        <key>Port Configurable</key>
+        <false/>
+        <key>Default Hostname</key>
+        <string>data.cyverse.tugraz.at</string>
+        <key>Region</key>
+        <string>TUG</string>
+        <key>Default Port</key>
+        <string>1247</string>
+        <key>Username Placeholder</key>
+        <string>CyVerse Austria username</string>
+        <key>Password Placeholder</key>
+        <string>CyVerse Austria password</string>
+    </dict>
+</plist>
