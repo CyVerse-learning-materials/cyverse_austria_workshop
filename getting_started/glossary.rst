@@ -6,6 +6,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
+
 **Glossary & Acronyms**
 ^^^^^^^^^^^^
 **A**
@@ -114,3 +115,14 @@
 .. |Github Repo Link|  raw:: html
 
    <a href="https://github.com/CyVerse-learning-materials/foss-2019/tree/master/CyVerse/getting_started/agenda.rst" target="blank">Github Repo Link</a>
+   
+   .. |CyVerse_logo| image:: ./img/cyverse_cmyk.png
+    :width: 650
+    
+.. _CyVerse_logo: https://cyverse.org
+
+.. |Home_Icon| image:: ./img/homeicon.png
+    :width: 25
+    :height: 25
+
+.. _Home_Icon: http://learning.cyverse.org/
