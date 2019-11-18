@@ -247,7 +247,7 @@ Monday 2019-11-18
       -
       - |Data Store Guide|
       - - `Data Management Overview <https://learning.cyverse.org/projects/foss-2020/en/latest/Data_management/overview.html>`_
-        - `Download Cyberduck Profile <./files/cyverse_at.cyberduckprofile>`_
+        - `Download Cyberduck Profile <https://github.com/CyVerse-learning-materials/cyverse_austria_workshop/blob/master/files/cyverse_at.cyberduckprofile>`_
     * - 11:30-12:00
       - Data Store Basics - Metadata templates
       -
