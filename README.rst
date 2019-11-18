@@ -267,6 +267,7 @@ Monday 2019-11-18
       -
       -
       - - `Data Stewardship Wizard <https://ds-wizard.org/>`_
+        - `Plan S principles <https://www.coalition-s.org/principles-and-implementation/>`_
 
 Tuesday 2019-11-19
 ``````````````````
