@@ -71,8 +71,7 @@ installation problems during the workshop.
         Currently, this tool is available for Windows/MacOS only. You will need
         to download Cyberduck and the connection profile. We will go through
         configuration and installation at the workshop.
-      - - `Download Cyberduck <https://cyberduck.io/>`_
-        - `Download CyVerse Cyberduck connection profile <https://wiki.cyverse.org/wiki/download/attachments/18188197/iPlant%20Data%20Store.cyberduckprofile?version=1&modificationDate=1436557522000&api=v2>`_
+      - `Download Cyberduck <https://cyberduck.io/>`_
     * - Docker
       - Docker is a technology for running individual software tools in a
         reproducible environment, and on any machine. We request you install
@@ -247,7 +246,8 @@ Monday 2019-11-18
       - Data Store Basics - Upload/Import
       -
       - |Data Store Guide|
-      - `Data Management Overview <https://learning.cyverse.org/projects/foss-2020/en/latest/Data_management/overview.html>`_
+      - - `Data Management Overview <https://learning.cyverse.org/projects/foss-2020/en/latest/Data_management/overview.html>`_
+        - `Download Cyberduck Profile <./files/cyverse_at.cyberduckprofile>`_
     * - 11:30-12:00
       - Data Store Basics - Metadata templates
       -
