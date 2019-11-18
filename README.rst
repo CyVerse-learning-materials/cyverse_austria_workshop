@@ -178,6 +178,20 @@ Slack
 We will Slack for shared notes and easy exchange of
 code, feedback, links, etc.: **TBA**
 
+-----
+
+Important links
+`````````````````
+- CyVerse Austria User Portal: `https://user.cyverse.tugraz.at/ <https://user.cyverse.tugraz.at/>`_
+- CyVerse Austria Discovery Environment: `https://de.cyverse.tugraz.at/ <https://de.cyverse.tugraz.at/>`_
+- CyVerse Austria Data Store configuration:
+    - irods host: `data.cyverse.tugraz.at`
+    - irods zone: `TUG`
+    - irods port: `1247`
+
+
+----
+
 Agenda
 ------
 

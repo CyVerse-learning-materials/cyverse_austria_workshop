@@ -10,7 +10,7 @@ extensions = [
 ]
 
 project = 'CyVerse Learning Center Home'
-copyright = '2017, CyVerse'
+copyright = '2019, CyVerse'
 author = 'CyVerse'
 version = '1.0'
 release = '1.0'
