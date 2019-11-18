@@ -266,7 +266,7 @@ Monday 2019-11-18
         - Data Store Additional topics - iCommands
       -
       -
-      -
+      - - `Data Stewardship Wizard <https://ds-wizard.org/>`_
 
 Tuesday 2019-11-19
 ``````````````````
