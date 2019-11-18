@@ -188,6 +188,7 @@ Important links
     - irods zone: `TUG`
     - irods port: `1247`
 
+- Instant Session Feedback: `Feedback form <https://forms.gle/nXibnHhH8wqZzq2s6>`_
 
 ----
 
