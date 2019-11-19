@@ -1,5 +1,5 @@
 .. include:: cyverse_rst_defined_substitutions.txt
-
+.. include:: links.rst
 
 |CyVerse_logo|_
 
