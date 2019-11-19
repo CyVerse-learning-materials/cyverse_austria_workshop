@@ -338,6 +338,8 @@ Tuesday 2019-11-19
         - |CyVerse Documentation Github|
         - |ReadTheDocs Documentation|
         - |Jupyter Notebook Tutorial|
+        - |What is a container|?
+        - |Intro Docker tutorial|
 
 Wednesday 2019-11-20
 ````````````````````
@@ -362,7 +364,7 @@ Wednesday 2019-11-20
       - Tool installation in the Discovery Environment
       -
       -
-      - `DE Tool Integration <https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/tool_integration_app_building_DE.html>`_
+      - |DE Tool Integration|
     * - 09:30-10:00
       - Tool installation in the Discovery Environment
       -
@@ -400,7 +402,7 @@ Wednesday 2019-11-20
          - Planning for day IV, V projects
       -
       -
-      - - `Version Control (FOSS) <https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/version_control.html>`_
+      - - |Version Control (FOSS)|
 
 Thursday 2019-11-21
 ```````````````````
@@ -423,7 +425,7 @@ Thursday 2019-11-21
       - Introduction to QIIME
       -
       -
-      - `QIIME2 Website <https://qiime2.org/>`_
+      - |QIIME2 Website|
     * - 09:30-12:30
       - Individual project work
       -
@@ -462,12 +464,12 @@ Friday 2019-11-22
       - Improving your teaching/training skills with Carpentries
       -
       -
-      - - `Carpentries Homepage <https://carpentries.org/>`_
+      - |Carpentries Homepage|
     * - 09:30-10:00
       - Building a local community of practice
       -
       -
-      - - `LifeSciTrainers Homepage <https://lifescitrainers.org/>`_
+      - |LifeSciTrainers Homepage|
     * - 10:00-12:30
       - **Individual Project Work** (Break included)
       -
@@ -502,14 +504,14 @@ or may not cover all of these items in the workshop.
       - Link
     * - Kallisto RNA-Seq Tutorial
       - RNA-Seq analysis using Kallisto and Sleuth. (Uses DE and RStudio)
-      - - `Kalisto tutorial <https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/>`_
-        - `Sleuth tutorial <https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/step4.html>`_
+      - - |Kalisto tutorial|
+        - |Sleuth tutorial|
     * - QIIME2 v2019.10 Jupyter Lab
-      - `QIIME2 Jupyter Lab tutorial <https://cyverse-jupyter-qiime2.readthedocs-hosted.com/en/latest/>`_
-      - |QIIME2|_
+      - |QIIME2 Jupyter Lab tutorial|
+      - |QIIME2|
     * - CyVerse FAQ
       - General CyVerse FAQs
-      - `CyVerse FAQ <https://cyverse-learning-center-faq.readthedocs-hosted.com/en/latest/>`_
+      - |CyVerse FAQ|
 
 
 -----

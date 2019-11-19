@@ -126,10 +126,50 @@
 
    <a href="https://realpython.com/jupyter-notebook-introduction/" target="blank">Jupyter Notebook Tutorial</a>
 
-.. |blank| raw:: html
+.. |What is a container| raw:: html
 
-   <a href="blank" target="blank">blank</a>
+   <a href="blank" target="blank">What is a container</a>
 
-.. |blank| raw:: html
+.. |Intro Docker tutorial| raw:: html
 
-   <a href="blank" target="blank">blank</a>
+   <a href="https://cyverse-creating-docker-containers-quickstart.readthedocs-hosted.com/en/latest/" target="blank">Intro Docker tutorial</a>
+
+.. |DE Tool Integration| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/tool_integration_app_building_DE.html" target="blank">DE Tool Integration</a>
+
+.. |Version Control (FOSS)| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/version_control.html" target="blank">Version Control (FOSS)</a>
+
+.. |QIIME2 Website| raw:: html
+
+   <a href="https://qiime2.org/" target="blank">QIIME2 Website</a>
+
+.. |Carpentries Homepage| raw:: html
+
+   <a href="https://carpentries.org/" target="blank">Carpentries Homepage</a>
+
+.. |LifeSciTrainers Homepage| raw:: html
+
+   <a href="https://lifescitrainers.org/" target="blank">LifeSciTrainers Homepage</a>
+
+.. |Kalisto tutorial| raw:: html
+
+   <a href="https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/" target="blank">Kalisto tutorial</a>
+
+.. |Sleuth tutorial| raw:: html
+
+   <a href="https://cyverse-kallisto-tutorial.readthedocs-hosted.com/en/latest/step4.html" target="blank">Sleuth tutorial</a>
+
+.. |QIIME2 Jupyter Lab tutorial| raw:: html
+
+   <a href="https://cyverse-jupyter-qiime2.readthedocs-hosted.com/en/latest/" target="blank">QIIME2 Jupyter Lab tutorial</a>
+
+.. |QIIME2| raw:: html
+
+   <a href="https://qiime2.org/" target="blank">QIIME2</a>
+
+.. |CyVerse FAQ| raw:: html
+
+   <a href="https://cyverse-learning-center-faq.readthedocs-hosted.com/en/latest/" target="blank">CyVerse FAQ</a>
