@@ -248,13 +248,13 @@ Monday 2019-11-18
       - Data Store Basics - Upload/Import
       - |DS Slides|
       - |Data Store Guide|
-      - - `Data Management Overview <https://learning.cyverse.org/projects/foss-2020/en/latest/Data_management/overview.html>`_
-        - `Download Cyberduck Profile <https://de.cyverse.tugraz.at/dl/d/7D6C6F6C-796C-41EE-8D56-9A9214438739/cyverse_at.cyberduckprofile>`_
+      - - |Data Management Overview|
+        - |Download Cyberduck Austria Profile|
     * - 11:30-12:00
       - Data Store Basics - Metadata templates
       -
       -
-      - `Associating Metadata (from Data Store Guide) <https://learning.cyverse.org/projects/data_store_guide/en/latest/step3.html>`_
+      - |Associating Metadata|
     * - 12:30-01:30
       - **Lunch**
       -
@@ -268,8 +268,8 @@ Monday 2019-11-18
         - Data Store Additional topics - iCommands
       -
       -
-      - - `Data Stewardship Wizard <https://ds-wizard.org/>`_
-        - `Plan S principles <https://www.coalition-s.org/principles-and-implementation/>`_
+      - - |Data Stewardship Wizard|
+        - |Plan S principles|
 
 Tuesday 2019-11-19
 ``````````````````
@@ -299,7 +299,7 @@ Tuesday 2019-11-19
       - Docker Basics
       -
       -
-      - `Introduction to Docker <https://learning.cyverse.org/projects/foss-2020/en/latest/Containers/dockerintro.html>`_
+      - |Introduction to Docker|
     * - 10:00-10:30
       - Docker basics (cont'd)
       -
@@ -319,8 +319,8 @@ Tuesday 2019-11-19
       - Introduction to  VICE
       -
       -
-      - - `Introduction to VICE <https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/vice.html>`_
-        - `VICE documentation <https://learning.cyverse.org/projects/vice/en/latest/>`_
+      - - |Introduction to VICE|
+        - |VICE documentation|
     * - 12:30-01:30
       - **Lunch**
       -
@@ -334,10 +334,10 @@ Tuesday 2019-11-19
         - More on building Juypyter Notebooks
       -
       -
-      - - `CyVerse Documentation Quickstart <https://learning.cyverse.org/projects/Documentation-Quickstart/en/latest/index.html#>`_
-        - `CyVerse Documentation Github <https://github.com/CyVerse-learning-materials>`_
-        - `ReadTheDocs Documentation <https://docs.readthedocs.io/en/stable/>`_
-        - `Jupyter Notebook Tutorial <https://realpython.com/jupyter-notebook-introduction/>`_
+      - - |CyVerse Documentation Quickstart|
+        - |CyVerse Documentation Github|
+        - |ReadTheDocs Documentation|
+        - |Jupyter Notebook Tutorial|
 
 Wednesday 2019-11-20
 ````````````````````

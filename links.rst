@@ -76,7 +76,55 @@
 
 .. |DS Slides| raw:: html
 
-   <a href="blank" target="blank">DS Slides</a>
+   <a href="https://github.com/CyVerse-learning-materials/cyverse_austria_workshop/raw/master/slides/data_store_2019.pptx" target="blank">DS Slides</a>
+
+.. |Data Management Overview| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/foss-2020/en/latest/Data_management/overview.html" target="blank">Data Management Overview</a>
+
+.. |Download Cyberduck Austria Profile| raw:: html
+
+   <a href="https://de.cyverse.tugraz.at/dl/d/7D6C6F6C-796C-41EE-8D56-9A9214438739/cyverse_at.cyberduckprofile" target="blank">Download Cyberduck Austria Profile</a>
+
+.. |Associating Metadata| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/data_store_guide/en/latest/step3.html" target="blank">Associating Metadata</a>
+
+.. |Data Stewardship Wizard| raw:: html
+
+   <a href="https://ds-wizard.org/" target="blank">Data Stewardship Wizard</a>
+
+.. |Plan S principles| raw:: html
+
+   <a href="https://www.coalition-s.org/principles-and-implementation/" target="blank">Plan S principles</a>
+
+.. |Introduction to Docker| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/foss-2020/en/latest/Containers/dockerintro.html" target="blank">Introduction to Docker</a>
+
+.. |Introduction to VICE| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/vice.html" target="blank">Introduction to VICE</a>
+
+.. |VICE documentation| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/vice/en/latest/" target="blank">VICE documentation</a>
+
+.. |CyVerse Documentation Quickstart| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/Documentation-Quickstart/en/latest/index.html#" target="blank">CyVerse Documentation Quickstart</a>
+
+.. |CyVerse Documentation Github| raw:: html
+
+   <a href="https://github.com/CyVerse-learning-materials" target="blank">CyVerse Documentation Github</a>
+
+.. |ReadTheDocs Documentation| raw:: html
+
+   <a href="https://docs.readthedocs.io/en/stable/" target="blank">ReadTheDocs Documentation</a>
+
+.. |Jupyter Notebook Tutorial| raw:: html
+
+   <a href="https://realpython.com/jupyter-notebook-introduction/" target="blank">Jupyter Notebook Tutorial</a>
 
 .. |blank| raw:: html
 
