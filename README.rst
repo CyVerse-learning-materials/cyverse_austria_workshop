@@ -93,10 +93,10 @@ installation problems during the workshop.
     * - Python (optional)
       - For our documentation you will need Python 3 (3.8.0 or later) installed.
         this is likely already installed on Linux/MacOS systems
-      - `Install Python <https://www.python.org/downloads/>`_
+      - |Install Python|
     * - Python package manager PIP (optional)
       - For our documentation you will need Python 3 (3.8.0 or later) installed
-      - `Install Python PIP <https://packaging.python.org/installing/#install-pip-setuptools-and-wheel>`_
+      - |Install Python PIP|
     * - Python sphinx (optional)
       - For our documentation you will need sphinx and themes
       -  .. code-block:: bash
@@ -107,7 +107,7 @@ installation problems during the workshop.
             $ pip install sphinx-autobuild
             $ pip install sphinx_rtd_theme
     * - Python RestView (optional)
-      - For our documentation `RestView <https://pypi.org/project/restview/>`_ is recommended for previewing
+      - For our documentation |RestView|
         documentation.
       -  .. code-block:: bash
 
@@ -128,18 +128,18 @@ installation problems during the workshop.
       - Please ensure you have a CyVerse account and have **verified** your
         account by completing the verification steps in the email you got when
         you registered. You can **test your account** by logging
-        into `http://user.cyverse.org/ <http://user.cyverse.org/>`_.
-      - Register for your CyVerse account at `http://user.cyverse.org/`_.
+        into |CyVerse Austria User Portal|.
+      - Register for your CyVerse account at |CyVerse Austria User Portal|.
         Please register using an institutional email address (e.g.
         .edu/.gov/.org etc.).
     * - Github
       - We will make use of Github for managing documentation, and also any
         software/scripts developed (E.g. Docker files).
-      - `Register for Github account <https://github.com/>`_
+      - Register for a |GitHub| account
     * - Dockerhub
       - Dockerhub is an online repository for the sharing and management of
         Docker images.
-      - `Register for a Dockerhub account <https://hub.docker.com/>`_
+      - Register for a |Dockerhub| account
     * - University VPN
       - If you want to access data located at your home institution, you may
         want to have VPN (virtual private network) software installed.
@@ -159,15 +159,15 @@ provide some options for functionalities we will cover.
     * - VNC Viewer
       - This tool enables connection to a remote Atmosphere Desktop. No installation
         or configuration is needed.
-      - `Download VNC Viewer <https://www.realvnc.com/en/connect/download/viewer/>`_
+      - |Download VNC Viewer|
     * - PuTTY (windows only)
       - PuTTY allows SSH connection to a remote machine, and is designed for
         Windows users who do not have a Mac/Linux terminal.
-      - `Download PuTTY <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
+      - |Download PuTTY|
     * - iCommands
       - iCommands are third-party software for command-line connection to the
         CyVerse Data Store.
-      - Download and installation instructions available at `CyVerse Learning Center <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step2.html>`__
+      - Download and installation instructions available at |CyVerse Learning Center - iCommands|
 
 -----
 
@@ -180,7 +180,8 @@ code, feedback, links, etc.: **TBA**
 -----
 
 Important links
-`````````````````
+--------------------
+
 - CyVerse Austria User Portal: `https://user.cyverse.tugraz.at/ <https://user.cyverse.tugraz.at/>`_
 - CyVerse Austria Discovery Environment: `https://de.cyverse.tugraz.at/ <https://de.cyverse.tugraz.at/>`_
 - CyVerse Austria Data Store configuration:
@@ -237,7 +238,7 @@ Monday 2019-11-18
       - Cyberinfrastructure platform overview
       -
       -
-      - `Introduction to CyVerse <https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/intro_to_cyverse.html>`_
+      - |Introduction to CyVerse| 
     * - 10:30-11:00
       - **Break**
       -

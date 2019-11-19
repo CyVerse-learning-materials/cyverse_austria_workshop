@@ -7,5 +7,5 @@
 
    README
    /getting_started/glossary
-   
+
 .. include:: README.rst
