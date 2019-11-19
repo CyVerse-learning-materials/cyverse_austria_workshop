@@ -58,20 +58,20 @@ installation problems during the workshop.
         running Windows/MacOS. While you will be able to use CyVerse components
         from any laptop, some of the tool installations may work better with
         those operating systems. If you are using Windows, you may wish to
-        install `Linux Bash for Windows <https://itsfoss.com/install-bash-on-windows/>`_.
+        install |Linux Bash for Windows|.
         We also **strongly recommend** Firefox or Chrome browser; **We do not**
         **recommend Microsoft Edge Browser**. It is helpful if you have
         administrative/install permissions on your laptop. **Note:** If
         specified, some workshops will be held in computer labs in which case a
         laptop is optional.
-      - - `Download FireFox <https://www.mozilla.org/en-US/firefox/new/?scene=2>`_
-        - `Download Chrome <https://www.google.com/chrome/browser/>`_
+      - - |Download FireFox|
+        - |Download Chrome|
     * - Cyberduck
       - Cyberduck is a third-party tool for uploading/downloading data to CyVerse.
         Currently, this tool is available for Windows/MacOS only. You will need
         to download Cyberduck and the connection profile. We will go through
         configuration and installation at the workshop.
-      - `Download Cyberduck <https://cyberduck.io/>`_
+      - |Download Cyberduck|
     * - Docker
       - Docker is a technology for running individual software tools in a
         reproducible environment, and on any machine. We request you install
@@ -79,17 +79,17 @@ installation problems during the workshop.
         Windows or MacOS. The **Docker CE x86_64** instructions are also
         available for Linux users. If you have installation problems, we
         will also have backup cloud instances available.
-      - `Download Docker <https://docs.docker.com/v17.09/engine/installation/>`_
+      - |Download Docker|
     * - Git
       - Git is a version control software.
         If you are using Linux or MacOS, you most likely already have Git.
         Windows users may need to install Git. You can find instructions
         for Git installation at the link.
-      - `Install Git <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>`_
+      - |Install Git|
     * - Text editor
       - You will need to have a text editor suitable for working with code
         (*Not* Microsoft word, or other word processing software).
-      - We recommend installing `Atom <https://atom.io/>`_
+      - We recommend installing |Atom|
     * - Python (optional)
       - For our documentation you will need Python 3 (3.8.0 or later) installed.
         this is likely already installed on Linux/MacOS systems
@@ -293,7 +293,7 @@ Tuesday 2019-11-19
       - Data analysis with the Discovery Environment
       -
       -
-      -
+      - |Discovery Environment Guide|
     * - 09:30-10:00
       - Docker Basics
       -
