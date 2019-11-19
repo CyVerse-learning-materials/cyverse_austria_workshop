@@ -74,9 +74,9 @@
 
    <a href="https://arizona.box.com/s/wr6klefhdck4vzja59osy5jb9xowoiz8" target="blank">DE Slides</a>
 
-.. |blank| raw:: html
+.. |DS Slides| raw:: html
 
-   <a href="blank" target="blank">blank</a>
+   <a href="blank" target="blank">DS Slides</a>
 
 .. |blank| raw:: html
 

@@ -236,9 +236,9 @@ Monday 2019-11-18
       -
     * - 10:00-10:30
       - Cyberinfrastructure platform overview
+      - |DE Slides|
       -
-      -
-      - |Introduction to CyVerse| 
+      - |Introduction to CyVerse|
     * - 10:30-11:00
       - **Break**
       -
@@ -246,7 +246,7 @@ Monday 2019-11-18
       -
     * - 11:00-11:30
       - Data Store Basics - Upload/Import
-      -
+      - |DS Slides|
       - |Data Store Guide|
       - - `Data Management Overview <https://learning.cyverse.org/projects/foss-2020/en/latest/Data_management/overview.html>`_
         - `Download Cyberduck Profile <https://de.cyverse.tugraz.at/dl/d/7D6C6F6C-796C-41EE-8D56-9A9214438739/cyverse_at.cyberduckprofile>`_
