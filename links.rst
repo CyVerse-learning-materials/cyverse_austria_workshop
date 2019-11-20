@@ -128,7 +128,7 @@
 
 .. |What is a container| raw:: html
 
-   <a href="blank" target="blank">What is a container</a>
+   <a href="https://www.docker.com/resources/what-container" target="blank">What is a container</a>
 
 .. |Intro Docker tutorial| raw:: html
 

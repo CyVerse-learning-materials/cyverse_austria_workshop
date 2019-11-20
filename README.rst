@@ -340,6 +340,7 @@ Tuesday 2019-11-19
         - |Jupyter Notebook Tutorial|
         - |What is a container|?
         - |Intro Docker tutorial|
+        - |Docker docs|
 
 Wednesday 2019-11-20
 ````````````````````
