@@ -426,12 +426,16 @@ Thursday 2019-11-21
       - Introduction to QIIME
       -
       -
-      - |QIIME2 Website|
+      - - |QIIME2 Website|
+        - |DNA Subway|
+        - |DNA Subway Guide|
+        - |DNA Barcoding 101|
     * - 09:30-12:30
       - Individual project work
       -
       -
-      -
+      - - |Draw.io|
+        - |Google Drive for Presentations|
     * - 12:30-01:30
       - **Lunch**
       -

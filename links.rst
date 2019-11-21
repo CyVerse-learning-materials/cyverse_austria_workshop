@@ -134,6 +134,11 @@
 
    <a href="https://cyverse-creating-docker-containers-quickstart.readthedocs-hosted.com/en/latest/" target="blank">Intro Docker tutorial</a>
 
+.. |Docker docs| raw:: html
+
+   <a href="https://docs.docker.com/" target="blank">Docker docs</a>
+
+
 .. |DE Tool Integration| raw:: html
 
    <a href="https://learning.cyverse.org/projects/foss-2020/en/latest/CyVerse/tool_integration_app_building_DE.html" target="blank">DE Tool Integration</a>
@@ -173,3 +178,23 @@
 .. |CyVerse FAQ| raw:: html
 
    <a href="https://cyverse-learning-center-faq.readthedocs-hosted.com/en/latest/" target="blank">CyVerse FAQ</a>
+
+.. |DNA Subway| raw:: html
+
+   <a href="https://dnasubway.cyverse.org/" target="blank">DNA Subway</a>
+
+.. |DNA Subway Guide| raw:: html
+
+   <a href="https://cyverse-dnasubway-guide.readthedocs-hosted.com/en/latest/" target="blank">DNA Subway Guide</a>
+
+.. |DNA Barcoding 101| raw:: html
+
+   <a href="https://dnabarcoding101.org/" target="blank">DNA Barcoding 101</a>
+
+.. |Draw.io| raw:: html
+
+   <a href="https://www.draw.io/" target="blank">Draw.io</a>
+
+.. |Google Drive for Presentations| raw:: html
+
+   <a href="https://drive.google.com/drive/folders/1xFWsSJb2uQ-uRdItWEFpMBQYJSYpQi7T?usp=sharing" target="blank">Google Drive for Presentations</a>
