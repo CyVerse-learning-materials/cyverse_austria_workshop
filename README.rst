@@ -469,7 +469,8 @@ Friday 2019-11-22
       - Improving your teaching/training skills with Carpentries
       -
       -
-      - |Carpentries Homepage|
+      - - |Carpentries Homepage|
+        - `Carpentries slide deck <https://de.cyverse.org/dl/d/0D932DF0-4FD5-49BD-B332-2EB4FC72A373/carpentries.pdf>`_
     * - 09:30-10:00
       - Building a local community of practice
       -
