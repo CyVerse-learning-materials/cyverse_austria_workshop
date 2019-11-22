@@ -491,7 +491,7 @@ Friday 2019-11-22
         - Individual meetings
       -
       -
-      -
+      - |Workshop Survey|
 
 -----
 

@@ -198,3 +198,7 @@
 .. |Google Drive for Presentations| raw:: html
 
    <a href="https://drive.google.com/drive/folders/1xFWsSJb2uQ-uRdItWEFpMBQYJSYpQi7T?usp=sharing" target="blank">Google Drive for Presentations</a>
+
+.. |Workshop Survey| raw:: html
+
+   <a href="https://forms.gle/QGh7qDm5CwSopxWf7" target="blank">Workshop Survey</a>
