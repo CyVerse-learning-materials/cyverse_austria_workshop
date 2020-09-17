@@ -1,3 +1,4 @@
+.. include:: cyverse_rst_defined_substitutions.txt
 
 .. toctree::
    :caption: Welcome to CyVerse

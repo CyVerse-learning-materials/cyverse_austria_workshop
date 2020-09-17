@@ -1,3 +1,4 @@
+.. include:: cyverse_rst_defined_substitutions.txt
 .. |Linux Bash for Windows| raw:: html
 
    <a href="https://itsfoss.com/install-bash-on-windows/" target="blank">Linux Bash for Windows</a>
