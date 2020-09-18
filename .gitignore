@@ -1,1 +1,4 @@
-.DS_Store
+_build/
+*.pyc
+.ropeproject/
+.DS_store
